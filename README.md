@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning CSS & Javascript.
 - ⚡ Fun fact: life's a joke.
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66cedc5886ab8b2c174645e7?variant=light&roadmaps=full-stack)](https://roadmap.sh)
+https://roadmap.sh/full-stack?s=66cedc5886ab8b2c174645e7
 
 <!--
 **tingchannavong/tingchannavong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
