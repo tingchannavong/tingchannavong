@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on contexto discord bot and a landing website for my club's boardgame collection.
-- 🌱 I’m currently learning CSS & Javascript.
+- 🔭 I’m currently working on a landing website for my club's boardgame collection.
+- 🌱 I’m currently learning the Astro framwork.
 - ⚡ Fun fact: life's a joke.
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66cedc5886ab8b2c174645e7?variant=dark)](https://roadmap.sh)
